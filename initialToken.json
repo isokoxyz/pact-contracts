@@ -1,0 +1,12 @@
+{
+    "id": "t:hGgcj7Y1p8VnPk4GqdZgGMKqMbcqyOOW2Zzhm-sPvK4",
+    "policies": [
+        "marmalade-v2.collection-policy-v1",
+        "n_f1c962776331c4773136dc1587a8355c9957eae1.isoko-guard-policy-v1",
+        "n_f1c962776331c4773136dc1587a8355c9957eae1.isoko-non-fungible-policy-v1",
+        "n_f1c962776331c4773136dc1587a8355c9957eae1.isoko-royalty-policy-v1"
+    ],
+    "precision": 0,
+    "supply": 0.0,
+    "uri": "https://isoko-testing.nyc3.cdn.digitaloceanspaces.com/barb.jpeg"
+}
